@@ -1,0 +1,14 @@
+*.o
+.depend
+missionapp
+follower/follower
+coordinator_activity.json
+data.json
+plot_animation_data_ego.dat
+plot_animation_data_enemy.dat
+plot_chase_points.dat
+plot_coordinated_points.dat
+plot_enemy_drone.dat
+plot_my_drone.dat
+run_data.json
+statestore.log
